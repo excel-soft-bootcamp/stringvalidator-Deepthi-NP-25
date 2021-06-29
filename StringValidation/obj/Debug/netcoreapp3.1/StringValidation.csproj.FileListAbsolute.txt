@@ -1,0 +1,13 @@
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\bin\Debug\netcoreapp3.1\StringValidation.exe
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\bin\Debug\netcoreapp3.1\StringValidation.deps.json
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\bin\Debug\netcoreapp3.1\StringValidation.runtimeconfig.json
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\bin\Debug\netcoreapp3.1\StringValidation.runtimeconfig.dev.json
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\bin\Debug\netcoreapp3.1\StringValidation.dll
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\bin\Debug\netcoreapp3.1\StringValidation.pdb
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.csprojAssemblyReference.cache
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.AssemblyInfoInputs.cache
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.AssemblyInfo.cs
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.dll
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.pdb
+C:\Users\deepthi.np\source\repos\DEMO7\StringValidator\obj\Debug\netcoreapp3.1\StringValidation.genruntimeconfig.cache
